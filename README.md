@@ -29,6 +29,7 @@ CREATE TABLE contatos (
 
 O projeto está organizado da seguinte forma para garantir a separação de responsabilidades:
 
+```
 crud-agenda-java/
 ├── README.md
 ├── .gitignore
@@ -47,6 +48,7 @@ crud-agenda-java/
 │               │   └── Contato.java
 │               │
 │               └── Main.java
+``` 
 
 ---
 
