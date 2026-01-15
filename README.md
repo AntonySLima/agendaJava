@@ -52,6 +52,16 @@ crud-agenda-java/
 
 ---
 
+## Execução
+
+Saída no console ao executar o projeto:
+
+```text
+Contato salvo com sucesso!
+=== LISTA DE CONTATOS ===
+ID: 1 | Nome: Teste CRUD | Idade: 25 | Data de cadastro: 2026-01-15
+``` 
+
 ### 🛠 Tecnologias Utilizadas
 
 - **Java** (JDK)
